@@ -47,7 +47,9 @@ also can set light mode to be one theme and dark mode theme.
 
 
 ### Font
-ALthough maintaining the Compared to the original teletext here we will have bold
+
+Use pixel font?
+Although maintaining the original teletext monofont here we will have bold
 
 ## Special features
 
