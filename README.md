@@ -21,6 +21,9 @@ All you need for the day to day information take.
 
 Indoor body; outdoor mind
 
+Limit to have only the 100~899 page
+
+
 ### All the knowdledge you can have:
 
   - **Past Knowledge**: encyclopedia, dictionary, books, recipes, quizzes, maps.
